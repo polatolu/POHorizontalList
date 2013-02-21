@@ -10,10 +10,6 @@
 
 `POHorizontalList` is developed for a project so it's not well flexible. But you can change the appearance of `ListItem` with manipulating ListItem.m file.
 
-## Contribution
-
-Anyone is free to use this project in both open source and commercial projects.
-
 ## Sample Icons
 
 Icons used in sample projects is downloaded from http://www.smashingmagazine.com/2010/09/01/icandies-icon-set-60-free-icons-your-user-interfaces-and-apps/
